@@ -1,2 +1,16 @@
-# Spotify_Clone
-Designed a Spotify-like music player interface using HTML, CSS, and JavaScript, focusing on fluid layouts and interactive elements. Currently developing backend integration to handle playlists and music data. Demonstrates strong UI skills with an evolving understanding of full-stack development.
+# Spotify Interface Clone (Frontend + Backend in Progress)
+
+A **Spotify-inspired music player UI** built using **HTML**, **CSS**, and **JavaScript**.  
+Currently integrating backend functionality to simulate playlist management and song playback features.
+
+# 🚀 Features
+- Clean and responsive Spotify-like interface  
+- Sidebar navigation and music controls  
+- Playlist section design  
+- Backend integration in progress
+
+# 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend (in progress): Node.js, Express  
+
+
